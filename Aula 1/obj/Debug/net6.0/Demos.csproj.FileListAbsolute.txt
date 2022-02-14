@@ -14,3 +14,18 @@ D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\ne
 D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\ref\Demos.dll
 D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.pdb
 D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\Demos.exe
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\Demos.deps.json
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\Demos.dll
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\ref\Demos.dll
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\bin\Debug\net6.0\Demos.pdb
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.dll
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\ref\Demos.dll
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.pdb
+C:\Users\User\Documents\GitHub\Reference-Type-And-Value-Type\Aula 1\obj\Debug\net6.0\Demos.genruntimeconfig.cache
